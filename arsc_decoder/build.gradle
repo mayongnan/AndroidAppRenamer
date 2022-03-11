@@ -1,0 +1,5 @@
+dependencies{
+    implementation depends.commons_io
+    implementation depends.guava
+    implementation depends.commons_lang
+}
